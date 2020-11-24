@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f7469f8-8258-4528-b427-f3f757a169e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jame.py" afterDir="false" />
-    </list>
+    <list default="true" id="3f7469f8-8258-4528-b427-f3f757a169e6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606206941487</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jame.work">
+      <created>1606207344012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606207344012</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -54,13 +59,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="iby.work" />
-    <option name="LAST_COMMIT_MESSAGE" value="iby.work" />
+    <MESSAGE value="jame.work" />
+    <option name="LAST_COMMIT_MESSAGE" value="jame.work" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="528" y="37" width="920" height="1030" key="CommitChangelistDialog2" timestamp="1606206941418">
+    <state x="528" y="37" width="920" height="1030" key="CommitChangelistDialog2" timestamp="1606207343954">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="528" y="37" width="920" height="1030" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1606206941418" />
+    <state x="528" y="37" width="920" height="1030" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1606207343954" />
     <state x="516" y="187" key="SettingsEditor" timestamp="1606203294571">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
