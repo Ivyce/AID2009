@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f7469f8-8258-4528-b427-f3f757a169e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="6599e0d1-15b3-4881-afb9-721e416a511b" />
+  <component name="ProjectId" id="1kj8le053yduszWuMKXsKX8qKoY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f7469f8-8258-4528-b427-f3f757a169e6" name="Default Changelist" comment="" />
+      <created>1606202792748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606202792748</updated>
+      <workItem from="1606202793861" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="37" width="920" height="1030" key="CommitChangelistDialog2" timestamp="1606203216587">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="528" y="37" width="920" height="1030" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1606203216587" />
+    <state x="516" y="187" key="SettingsEditor" timestamp="1606203294571">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="516" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1606203294571" />
+    <state x="773" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606203209638">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="773" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1606203209638" />
+  </component>
+</project>
